@@ -87,7 +87,7 @@ void main() {
 
   // 6. Printar no formato JSON o objeto Equipe Projeto.
   String projetoJson = jsonEncode(equipeProjeto.toJson());
-rint(projetoJson);
+print(projetoJson);
 }
 
 
