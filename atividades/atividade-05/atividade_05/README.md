@@ -1,5 +1,16 @@
-![image](https://github.com/user-attachments/assets/fae29b62-1e32-45e8-9d88-1e56142baede)
+# atividade_05
 
-![image](https://github.com/user-attachments/assets/14b8eafc-ad4b-4bc8-be15-4f55649b051e)
+A new Flutter project.
 
-![image](https://github.com/user-attachments/assets/7523e709-971b-4482-82d4-7e9874947064)
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
